@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GuessMyNumber</string>
+    <string name="guess_result">Successfully guess number after %d times.</string>
+</resources>
