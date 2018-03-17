@@ -16,5 +16,4 @@ I just think thats will not have a single contribution from others. Hahaha. But 
 Greeting,
 
 
-Ar Firman Syahputra
-Android Developer from ....
+Ar Firman Syahputra (Android Developer from ....)
